@@ -21,3 +21,12 @@ This is an experiment to learn to connect software applications with AI models v
 
 3. Has a simple web-UI to test prompts, conversations etc. 
     - This Botter-UI better use the Botter1-REST-API.
+
+## Simple Code
+
+1. Break up the quick & dirty code to above architecture.
+
+# Scaling
+
+Since the AI API landscape is fast evolving, and we hope to test as many APIs as possible that are relevant to our business needs, 
+we should be aiming to layout code-structures that allow maximum flexibility to experiment/test new possibilities fast.
