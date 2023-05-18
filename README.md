@@ -24,7 +24,8 @@ This is an experiment to learn to connect software applications with AI models v
 
 ## Simple Code
 
-1. Break up the quick & dirty code to above architecture.
+1. Break up the [quick & dirty script]([url](https://github.com/euroblaze/botter1/blob/main/quickanddirtyscript.py)) to above architecture.
+2. Put up a simple webform that allows to provide inputs to botter1 and view, evaluate and resend inputs/prompts.
 
 # Scaling
 
